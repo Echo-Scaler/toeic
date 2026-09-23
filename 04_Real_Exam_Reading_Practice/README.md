@@ -33,6 +33,10 @@
    - Double Passages (စာရွက် ၂ ရွက်တွဲ မေးခွန်း ၁၀ ပုဒ်) နှင့် Triple Passages (စာရွက် ၃ ရွက်တွဲ မေးခွန်း ၁၅ ပုဒ်)
 5. **[05. Answer Key & Score Converter](./05_answer_key_and_score_converter.md)**
    - အဖြေမှန် အမြန်စစ်ဆေးရန် ဇယား၊ Raw Score မှ Scaled Score သို့ ပြောင်းလဲတွက်ချက်သည့် ဇယားနှင့် ၈၀၀+ ရမှတ် အကဲဖြတ်ချက်
+6. **[06. Grammar Mastery Real Exam Test 2 (40 Questions)](./06_grammar_mastery_real_exam_test2.md)**
+   - သဒ္ဒါစစ်စစ် Real Exam Test 2 မေးခွန်း ၄၀ + Master Answer Key + မြန်မာလို အသေးစိတ် ရှင်းလင်းချက်
+7. **[07. Grammar Mastery Real Exam Test 3 (40 Questions)](./07_grammar_mastery_real_exam_test3.md)**
+   - သဒ္ဒါစစ်စစ် Real Exam Test 3 မေးခွန်း ၄၀ + Master Answer Key + မြန်မာလို အသေးစိတ် ရှင်းလင်းချက်
 
 ---
 

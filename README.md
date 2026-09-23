@@ -77,6 +77,24 @@
 4. [03. Part 7: Single Passages (Q147–Q175)](./04_Real_Exam_Reading_Practice/03_part7_single_passages_simulation.md) — စာရွက်တစ်ခုတည်းပါ စာပိုဒ် ၂၉ ပုဒ် + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
 5. [04. Part 7: Multiple Passages (Q176–Q200)](./04_Real_Exam_Reading_Practice/04_part7_multiple_passages_simulation.md) — စာရွက် ၂ ရွက်/၃ ရွက်တွဲ ၂၅ ပုဒ် (Cross-referencing) + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
 6. [05. Master Answer Key & Score Converter](./04_Real_Exam_Reading_Practice/05_answer_key_and_score_converter.md) — အဖြေမှန် ဇယားချုပ်၊ Raw-to-Scaled Score ပြောင်းလဲတွက်ချက်မှုနှင့် ၈၀၀+ ရမှတ် စစ်ဆေးချက်
+7. [06. Grammar Mastery Real Exam Test 2 (40 Questions)](./04_Real_Exam_Reading_Practice/06_grammar_mastery_real_exam_test2.md) — သဒ္ဒါစစ်စစ် Real Exam Test 2 မေးခွန်း ၄၀ + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+8. [07. Grammar Mastery Real Exam Test 3 (40 Questions)](./04_Real_Exam_Reading_Practice/07_grammar_mastery_real_exam_test3.md) — သဒ္ဒါစစ်စစ် Real Exam Test 3 မေးခွန်း ၄၀ + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+
+---
+
+### 📌 [05_Grammar_Real_Exam](./05_Grammar_Real_Exam/) (သဒ္ဒါစစ်စစ် အစစ်အမှန် စာမေးပွဲ မေးခွန်း ၁,၀၄၀ ပုဒ် ဘဏ်ကြီး)
+- [Overview & Master Test Directory (26 Tests)](./05_Grammar_Real_Exam/README.md) — မေးခွန်း ၁,၀၄၀ ပုဒ် လမ်းညွှန်နှင့် ၁၅-၂၀ စက္ကန့် ဖြေရှင်းနည်း စည်းမျဉ်းများ
+1. [Test 1: Core Grammar Real Exam (40 Questions)](./05_Grammar_Real_Exam/01_grammar_real_exam_test1.md)
+2. [Test 2: Advanced Syntax Real Exam (40 Questions)](./05_Grammar_Real_Exam/02_grammar_real_exam_test2.md)
+3. [Test 3: Collocations & Determiners Real Exam (40 Questions)](./05_Grammar_Real_Exam/03_grammar_real_exam_test3.md)
+4. [Test 4: High-Yield Structures Real Exam (40 Questions)](./05_Grammar_Real_Exam/04_grammar_real_exam_test4.md)
+5. [Test 5: 800-900 High-Trap Master Challenge (40 Questions)](./05_Grammar_Real_Exam/05_grammar_real_exam_test5.md)
+6. [Test 6: Automotive Engineering Real Exam (40 Questions)](./05_Grammar_Real_Exam/06_grammar_real_exam_test6.md)
+7. [Test 7: Aerospace & Aviation Real Exam (40 Questions)](./05_Grammar_Real_Exam/07_grammar_real_exam_test7.md)
+8. [Test 8: Cloud Computing & AI Real Exam (40 Questions)](./05_Grammar_Real_Exam/08_grammar_real_exam_test8.md)
+9. [Test 9: Biopharmaceuticals & Clinical Research (40 Questions)](./05_Grammar_Real_Exam/09_grammar_real_exam_test9.md)
+10. [Test 10: Renewable Energy Real Exam (40 Questions)](./05_Grammar_Real_Exam/10_grammar_real_exam_test10.md)
+11. [Tests 11 to 26: Full 26 Industry Sectors (16 Tests × 40 = 640 Questions)](./05_Grammar_Real_Exam/README.md)
 
 ---
 
