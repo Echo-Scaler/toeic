@@ -36,6 +36,7 @@
 9. [09. Pronouns, Quantifiers & Determiners](./01_Grammar_Mastery/09_pronouns_quantifiers_determiners.md) — another vs other vs others၊ few vs little၊ a number of vs the number of ခွဲခြားနည်း
 10. [10. Phrasal Verbs & Preposition Idioms](./01_Grammar_Mastery/10_phrasal_verbs_and_preposition_idioms.md) — အသုံးများဆုံး 群動詞 အလုံး ၂၀ နှင့် ပုံသေတွဲစပ် Preposition များ
 11. [11. Negation, Cleft Sentences & Special Syntax](./01_Grammar_Mastery/11_negation_cleft_and_special_syntax.md) — Hardly... when၊ No sooner... than၊ Cleft Sentences (It is... that) နှင့် အလေးပေးဝါကျများ
+12. [12. Sector-Specific Grammar Patterns Master Guide](./01_Grammar_Mastery/12_sector_grammar_patterns_master_guide.md) — စီးပွားရေး ကဏ္ဍကြီး ၆ ခုအတွက် စာမေးပွဲသုံး မဖြစ်မနေသိထားရမည့် သဒ္ဒါပုံစံများနှင့် ၁၀ စက္ကန့် ဖြတ်လမ်းနည်းများ
 
 ---
 
