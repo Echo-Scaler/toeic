@@ -1,7 +1,7 @@
 # TOEIC 800+ December Exam Mastery Guide (Japan & Burmese Edition)
-## ဂျပန်နိုင်ငံ ဒီဇင်ဘာလ TOEIC L&R စာမေးပွဲတွင် အမှတ် ၈၀၀+ ရရှိစေရန် ရည်ရွယ်ပြုစုထားသော သဒ္ဒါ၊ ဝါကျပုံစံနှင့် ဝေါဟာရ စွယ်စုံကျမ်း
+## ဂျပန်နိုင်ငံ ဒီဇင်ဘာလ TOEIC L&R စာမေးပွဲတွင် အမှတ် ၈၀၀+ ရရှိစေရန် ရည်ရွယ်ပြုစုထားသော သဒ္ဒါ၊ ဝါကျပုံစံ၊ ဝေါဟာရနှင့် အစစ်အမှန် စာမေးပွဲ ပုံစံတူ စွယ်စုံကျမ်း
 
-ဤ Resource Folder သည် ဂျပန်နိုင်ငံတွင် ကျင်းပသော **ဒီဇင်ဘာလ TOEIC L&R စာမေးပွဲ** တွင် **ရမှတ် ၈၀၀ ကျော် (800+ Marks / Class A Level)** ကို စနစ်တကျ ရရှိစေရန် ရည်ရွယ်၍ **သဒ္ဒါစည်းမျဉ်းအားလုံး (All-Sector Grammar)**၊ **စီးပွားရေးသုံး စကားလုံးအတွဲအစပ် ၁,၀၀၀ ကျော် (1,000+ Business Collocations)**၊ **မဖြစ်မနေသိထားရမည့် ဝေါဟာရ ၁,၅၀၀ ကျော် (1,500+ Essential Vocabulary)** တို့ကို **မြန်မာဘာသာဖြင့် အသေးစိတ် ရှင်းလင်းချက်များ** ဖြင့် ပြည့်စုံစွာ ပြုစုထားသော စာကြည့်တိုက် ဖြစ်ပါသည်။
+ဤ Resource Folder သည် ဂျပန်နိုင်ငံတွင် ကျင်းပသော **ဒီဇင်ဘာလ TOEIC L&R စာမေးပွဲ** တွင် **ရမှတ် ၈၀၀ ကျော် (800+ Marks / Class A Level)** ကို စနစ်တကျ ရရှိစေရန် ရည်ရွယ်၍ **သဒ္ဒါစည်းမျဉ်းအားလုံး (All-Sector Grammar)**၊ **စီးပွားရေးသုံး စကားလုံးအတွဲအစပ် ၁,၀၀၀ ကျော် (1,000+ Business Collocations)**၊ **မဖြစ်မနေသိထားရမည့် ဝေါဟာရ ၁,၅၀၀ ကျော် (1,500+ Essential Vocabulary)** နှင့် **အစစ်အမှန် စာမေးပွဲပုံစံတူ Reading မေးခွန်း ၁၀၀ (Real Exam Simulation Q101-Q200)** တို့ကို **မြန်မာဘာသာဖြင့် အသေးစိတ် ရှင်းလင်းချက်များ** ဖြင့် ပြည့်စုံစွာ ပြုစုထားသော စာကြည့်တိုက် ဖြစ်ပါသည်။
 
 ---
 
@@ -70,11 +70,21 @@
 
 ---
 
+### 📌 [04_Real_Exam_Reading_Practice](./04_Real_Exam_Reading_Practice/) (၇၅ မိနစ် အစစ်အမှန် စာမေးပွဲပုံစံတူ မေးခွန်း ၁၀၀)
+1. [Practice Overview & Rules](./04_Real_Exam_Reading_Practice/README.md) — ၇၅ မိနစ် စာမေးပွဲ အချိန်ခွဲဝေမှုနှင့် ဖြေဆိုနည်း စည်းကမ်းချက်များ
+2. [01. Part 5: Incomplete Sentences (Q101–Q130)](./04_Real_Exam_Reading_Practice/01_part5_incomplete_sentences_simulation.md) — မေးခွန်းတို ၃၀ ပုဒ် + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+3. [02. Part 6: Text Completion (Q131–Q146)](./04_Real_Exam_Reading_Practice/02_part6_text_completion_simulation.md) — စာပိုဒ်ကွက်လပ်ဖြည့် ၁၆ ပုဒ် + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+4. [03. Part 7: Single Passages (Q147–Q175)](./04_Real_Exam_Reading_Practice/03_part7_single_passages_simulation.md) — စာရွက်တစ်ခုတည်းပါ စာပိုဒ် ၂၉ ပုဒ် + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+5. [04. Part 7: Multiple Passages (Q176–Q200)](./04_Real_Exam_Reading_Practice/04_part7_multiple_passages_simulation.md) — စာရွက် ၂ ရွက်/၃ ရွက်တွဲ ၂၅ ပုဒ် (Cross-referencing) + အဖြေနှင့် အသေးစိတ် ရှင်းလင်းချက်
+6. [05. Master Answer Key & Score Converter](./04_Real_Exam_Reading_Practice/05_answer_key_and_score_converter.md) — အဖြေမှန် ဇယားချုပ်၊ Raw-to-Scaled Score ပြောင်းလဲတွက်ချက်မှုနှင့် ၈၀၀+ ရမှတ် စစ်ဆေးချက်
+
+---
+
 ## 💡 နေ့စဉ် အောင်မြင်ရေး လေ့လာမှု နည်းစနစ် (Daily Study Habit)
 
 1. **မနက်ခင်း ရထားစီးချိန် / အားလပ်ချိန် (၃၀ မိနစ်)**:
    - `02_Sentence_Patterns_and_Phrases` ရှိ Collocations Volume များနှင့် `03_Essential_Vocabulary_800` မှ စကားလုံးများကို နေ့စဉ် အလုံး ၃၀ မှ ၅၀ အထိ ပုံမှန်ဖတ်ရှုကျက်မှတ်ပါ။
 2. **ညနေပိုင်း လေ့ကျင့်ခန်းချိန် (၁ နာရီ)**:
    - `01_Grammar_Mastery` မှ သဒ္ဒါဖော်မြူလာများကို နားလည်အောင်ဖတ်ပြီး Part 5 & 6 မေးခွန်းများကို ၁ ပုဒ်လျှင် စက္ကန့် ၂၀ သတ်မှတ်၍ အချိန်မှတ် ဖြေဆိုပါ။
-3. **အိပ်ရာမဝင်မီ နားထောင်လေ့ကျင့်မှု (၂၀ မိနစ်)**:
-   - `02_Sentence_Patterns_and_Phrases/02_part3_part4_listening_scripts.md` ကို အသံဖိုင်နှင့် တွဲဖက်၍ အသံတူ လိုက်လံရွတ်ဆိုပါ (Shadowing)။
+3. **အပတ်စဉ် အစမ်းစာမေးပွဲ (၇၅ မိနစ်)**:
+   - `04_Real_Exam_Reading_Practice/` ရှိ မေးခွန်း ၁၀၀ ကို ၇၅ မိနစ် အချိန်တိကျစွာ မှတ်သား၍ ဖြေဆိုပြီး အမှားများကို စိစစ်ပါ။
